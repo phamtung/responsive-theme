@@ -42,13 +42,12 @@ body{
 .last-right{
 	border-right: none!important;
 }
-
-.header-3{
-	padding-left: 10px;
-}
 .header-3 .col-md-4{
 	padding: 0px;
 	background: #ffffff;
+}
+.r .row{
+	width: 465px;
 }
 .header-3 .col-md-2{
 	border-top: 3px solid #d9d9d9;
